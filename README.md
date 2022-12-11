@@ -15,8 +15,8 @@ This repository contain the code snippets and a wiki with all the codebase from 
 The wiki is organized in sections based on the ...well, I'm still thinking about it. Standalone scripts are in the scripts folder and can be used directly for their intended purpose. A brief description is present on the wiki. Small functions and one-liners (or few liners) can be copied and pasted directly in Jupyter or RStudio (or the terminal for that matter). 
 
 ## Credits
-We tried to cite all the sources where we found the solutions we are implementing. If you see something that we did not credit appropriately please let us know. If you decide to use some of the spcripts here, fantastic! If you wanna let us know that you are using them, drop us a line on social media or via email. If for whatever reasons you wanna cite this codebase, please use:
+We tried to cite all the sources where we found the solutions we are implementing. If you see something that we did not credit appropriately please let us know. If you decide to use some of the scripts here, fantastic! If you wanna let us know that you are using them, drop us a line on social media or via email. If for whatever reasons you wanna cite this codebase, please use:
 
-*Giovannelli, D and the Giovanelli Lab members. 2022. Solving common bioinformatic problems across large collaboravibe projects: creating a shared codebase on GitHub. doi: to be assigned*
+*Giovannelli, D and the Giovanelli Lab members. 2022. Solving common bioinformatic problems across large collaborative projects: creating a shared codebase on GitHub. doi: to be assigned*
 
 Thank you and have fun!
